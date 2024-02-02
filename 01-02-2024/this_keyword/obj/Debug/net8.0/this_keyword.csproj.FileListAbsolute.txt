@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\this_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\this_keyword.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\this_keyword.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\this_keyword.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\this_keyword.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\bin\Debug\net8.0\this_keyword.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\bin\Debug\net8.0\this_keyword.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\bin\Debug\net8.0\this_keyword.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\bin\Debug\net8.0\this_keyword.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\bin\Debug\net8.0\this_keyword.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\this_keyword.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\refint\this_keyword.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\this_keyword.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\this_keyword.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\this_keyword\obj\Debug\net8.0\ref\this_keyword.dll

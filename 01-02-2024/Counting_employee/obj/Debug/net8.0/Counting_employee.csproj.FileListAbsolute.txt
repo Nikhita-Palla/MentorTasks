@@ -1,0 +1,15 @@
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\bin\Debug\net8.0\Counting_employee.exe
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\bin\Debug\net8.0\Counting_employee.deps.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\bin\Debug\net8.0\Counting_employee.runtimeconfig.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\bin\Debug\net8.0\Counting_employee.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\bin\Debug\net8.0\Counting_employee.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\Counting_employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\Counting_employee.AssemblyInfoInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\Counting_employee.AssemblyInfo.cs
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\Counting_employee.csproj.CoreCompileInputs.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\Counting_employee.sourcelink.json
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\Counting_employee.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\refint\Counting_employee.dll
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\Counting_employee.pdb
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\Counting_employee.genruntimeconfig.cache
+C:\Users\nikhita_palla\Documents\Github\Dotnet_Practice\Tasks_Mentor\01-02-2024\Counting_employee\obj\Debug\net8.0\ref\Counting_employee.dll
